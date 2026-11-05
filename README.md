@@ -3,3 +3,4 @@
 ---
 
 ### [Practice 1](./practices/practice-1)
+### [Practice 2](./practices/practice-2)
